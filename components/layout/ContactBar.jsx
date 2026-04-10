@@ -15,7 +15,7 @@ const ContactBar = () => {
       <div className="flex items-center gap-4 md:gap-10">
 
         <Image
-          src="/logo.webp"
+          src="/images/logo/logo.webp"
           width={70}
           height={70}
           alt="Logo"

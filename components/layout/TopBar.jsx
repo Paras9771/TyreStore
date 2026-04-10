@@ -19,7 +19,7 @@ const TopBar = () => {
         <p>Please download our mobile app</p>
 
         <Image
-          src="/playstore.png"
+          src="/images/buttons/playstore.png"
           width={100}
           height={35}
           alt="google playstore"
@@ -28,7 +28,7 @@ const TopBar = () => {
         />
 
         <Image
-          src="/ipad.png"
+          src="/images/buttons/ipad.png"
           width={100}
           height={35}
           alt="Apple Store"
