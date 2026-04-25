@@ -20,7 +20,7 @@ const HowItWorksSection = () => {
             width={70}
             height={70}
             alt="step icon"
-            className="transition-transform duration-300 group-hover:scale-110"
+            className="transition-transform duration-300 group-hover:scale-110 w-auto h-auto"
           />
 
           <h3 className="text-base md:text-lg lg:text-xl font-semibold mt-6 mb-2 transition-colors duration-300 group-hover:text-yellow-300">

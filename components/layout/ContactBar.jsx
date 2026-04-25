@@ -23,7 +23,7 @@ const ContactBar = () => {
         />
 
         <div className="hidden sm:flex items-center gap-2">
-          <Image src="/phone.webp" height={28} width={28} alt="Phone" className="w-7 h-7 object-contain"/>
+          <Image src="/images/icons/phone.webp" height={28} width={28} alt="Phone" className="w-7 h-7 object-contain"/>
           <div className="leading-tight">
             <p className="text-blue-600 text-xs md:text-base">Call</p>
             <p className="font-semibold text-xs md:text-base">123456789</p>
@@ -31,7 +31,7 @@ const ContactBar = () => {
         </div>
 
         <div className="hidden md:flex items-center gap-2">
-          <Image src="/email.webp" height={28} width={28} alt="Email" className="w-7 h-7 object-contain"/>
+          <Image src="/images/icons/email.webp" height={28} width={28} alt="Email" className="w-7 h-7 object-contain"/>
           <div className="leading-tight">
             <p className="text-blue-600 text-xs md:text-base">Email</p>
             <p className="font-semibold text-xs md:text-base">

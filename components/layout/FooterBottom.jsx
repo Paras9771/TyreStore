@@ -19,7 +19,7 @@ const FooterBottom = () => {
             width={35}
             height={35}
             alt={footer.name}
-            className="opacity-80 hover:opacity-100 transition"
+            className="opacity-80 hover:opacity-100 transition w-auto h-auto"
           />
         ))}
       </div>

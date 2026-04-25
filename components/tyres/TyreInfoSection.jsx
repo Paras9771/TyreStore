@@ -9,7 +9,7 @@ const TyreInfoSection = () => {
 
         <div className="absolute inset-0 md:hidden">
           <Image
-            src="/images/TyreInfo/1.jpg"
+            src="/images/tyreInfo/1.jpg"
             alt="Car Image"
             fill
             className="object-cover"
@@ -19,7 +19,7 @@ const TyreInfoSection = () => {
 
         <div className="relative w-full h-[300px] md:h-auto hidden md:block">
           <Image
-            src="/images/TyreInfo/1.jpg"
+            src="/images/tyreInfo/2.jpg"
             alt="Car Image"
             fill
             className="object-cover"
