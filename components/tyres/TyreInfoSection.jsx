@@ -19,7 +19,7 @@ const TyreInfoSection = () => {
 
         <div className="relative w-full h-[300px] md:h-auto hidden md:block">
           <Image
-            src="/images/tyreInfo/2.jpg"
+            src="/images/tyreInfo/1.jpg"
             alt="Car Image"
             fill
             className="object-cover"

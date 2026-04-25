@@ -8,7 +8,7 @@ const TyreInfo2 = () => {
        {/* BACKGROUND IMAGE FOR MOBILE */}
       <div className="absolute inset-0 md:hidden">
         <Image
-          src="/images/TyreInfo/2.jpg"
+          src="/images/tyreInfo/2.jpg"
           alt="Car Service"
           fill
           className="object-cover"
